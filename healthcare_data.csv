@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Disease,Admission_Date,Discharge_Date,Hospital,City,Doctor,Treatment_Cost,Length_of_Stay,Outcome
+P001,45,Male,Diabetes,2024-01-02,2024-01-08,Apollo Hospital,Hyderabad,Dr Rao,45000,6,Recovered
+P002,32,Female,Covid-19,2024-01-05,2024-01-15,Fortis Hospital,Bangalore,Dr Mehta,78000,10,Recovered
+P003,60,Male,Heart Disease,2024-01-07,2024-01-20,Apollo Hospital,Chennai,Dr Kumar,120000,13,Recovered
+P004,28,Female,Malaria,2024-01-10,2024-01-14,AIIMS Delhi,Delhi,Dr Singh,15000,4,Recovered
+P005,50,Male,Hypertension,2024-01-12,2024-01-18,Fortis Hospital,Mumbai,Dr Patel,40000,6,Recovered
+P006,36,Female,Asthma,2024-01-15,2024-01-19,Manipal Hospital,Bangalore,Dr Sharma,25000,4,Recovered
+P007,42,Male,Diabetes,2024-01-18,2024-01-26,Apollo Hospital,Hyderabad,Dr Rao,50000,8,Recovered
+P008,65,Female,Heart Disease,2024-01-20,2024-02-05,AIIMS Delhi,Delhi,Dr Singh,135000,16,Recovered
+P009,30,Male,Dengue,2024-01-22,2024-01-27,Manipal Hospital,Chennai,Dr Kumar,22000,5,Recovered
+P010,55,Female,Cancer,2024-01-25,2024-02-10,Tata Memorial,Mumbai,Dr Patel,200000,16,Under Treatment
+P011,48,Male,Hypertension,2024-02-01,2024-02-07,Fortis Hospital,Mumbai,Dr Mehta,42000,6,Recovered
+P012,29,Female,Covid-19,2024-02-03,2024-02-12,Apollo Hospital,Chennai,Dr Kumar,68000,9,Recovered
+P013,70,Male,Heart Disease,2024-02-05,2024-02-18,AIIMS Delhi,Delhi,Dr Singh,145000,13,Deceased
+P014,38,Female,Asthma,2024-02-07,2024-02-11,Manipal Hospital,Bangalore,Dr Sharma,24000,4,Recovered
+P015,41,Male,Diabetes,2024-02-10,2024-02-17,Apollo Hospital,Hyderabad,Dr Rao,47000,7,Recovered
+P016,26,Female,Malaria,2024-02-12,2024-02-16,AIIMS Delhi,Delhi,Dr Singh,14000,4,Recovered
+P017,58,Male,Hypertension,2024-02-15,2024-02-22,Fortis Hospital,Mumbai,Dr Patel,39000,7,Recovered
+P018,34,Female,Dengue,2024-02-18,2024-02-24,Manipal Hospital,Chennai,Dr Kumar,26000,6,Recovered
+P019,63,Male,Cancer,2024-02-20,2024-03-05,Tata Memorial,Mumbai,Dr Patel,210000,13,Under Treatment
+P020,47,Female,Covid-19,2024-02-22,2024-03-02,Apollo Hospital,Chennai,Dr Kumar,72000,9,Recovered
