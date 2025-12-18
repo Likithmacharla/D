@@ -1,0 +1,23 @@
+Healthcare-Analytics-Dashboard/
+│
+├── data/
+│   └── healthcare_data.csv
+│
+├── notebooks/
+│   └── Healthcare_Analytics_Dashboard.ipynb
+│
+├── powerbi/
+│   └── Healthcare_Analytics_Dashboard.pbix   (optional)
+│
+├── reports/
+│   ├── Project_Documentation.pdf
+│   └── Interview_QA.pdf
+│
+├── images/
+│   └── dashboard_screenshots.png
+│
+├── README.md
+│
+├── requirements.txt
+│
+└── .gitignore
